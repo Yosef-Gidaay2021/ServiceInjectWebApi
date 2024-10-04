@@ -1,0 +1,6 @@
+@InjectWepApi_HostAddress = http://localhost:5029
+
+GET {{InjectWepApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
