@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InjectWepApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e6369f27738a68c9c82091aef1794b2da9253cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2899fb955a2093ada0aee9deb76da8fcaa357750")]
 [assembly: System.Reflection.AssemblyProductAttribute("InjectWepApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InjectWepApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
